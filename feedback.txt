@@ -1,0 +1,8 @@
+Hi Aishwarya,
+
+Your grade for HW1 is 12.5%
+
+1. -0.5%, variation of results across service provisioning models could have been added.
+2. +3% bonus for functional implementations.
+
+Abhijeet
